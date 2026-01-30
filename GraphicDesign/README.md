@@ -1,7 +1,32 @@
+# 🎨 Complete Graphic Design Roadmap
+**From Zero to Freelance Designer | Fast-Track Learning Path**
 
 ---
 
-# 🎨 Complete Graphic Design Roadmap
+## 📋 Table of Contents
+1. [Design Fundamentals](#fundamentals)
+2. [Essential Software](#software)
+3. [Design Fields & Specializations](#fields)
+4. [Learning Resources](#resources)
+5. [Building Portfolio](#portfolio)
+6. [Freelancing Guide](#freelancing)
+7. [Practice Projects](#projects)
+8. [Quick Reference Cheat Sheet](#cheat-sheet)
+
+---
+
+## 🎯 Learning Timeline Overview
+
+```
+Week 1-2:   Design Fundamentals (Theory + Practice)
+Week 3-4:   Software Basics (Tools Mastery)
+Week 5-6:   Choose Specialization + Deep Dive
+Week 7-8:   Portfolio Building (10+ Projects)
+Week 9-10:  Freelancing Setup + First Clients
+Week 11-12: Advanced Techniques + Niche Mastery
+
+Total: 3 Months to Freelance-Ready
+```
 
 **From Zero to Freelance Designer | Fast-Track Learning Path**
 
