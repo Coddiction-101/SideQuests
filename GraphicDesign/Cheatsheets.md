@@ -1,6 +1,5 @@
-## 📋 Quick Reference Cheat Sheet {#cheat-sheet}
+ ## 📋 Quick Reference Cheat Sheet {#cheat-sheet}
 
-```markdown
 # GRAPHIC DESIGN QUICK REFERENCE
 
 ## 7 Elements
@@ -120,6 +119,6 @@ Fonts: Google Fonts
 
 ## Success Formula
 Skill × Portfolio × Marketing = Clients
-```
+
 
 ---
