@@ -4,14 +4,14 @@
 ---
 
 ## 📋 Table of Contents
-1. [Design Fundamentals](#fundamentals)
-2. [Essential Software](#software)
-3. [Design Fields & Specializations](#fields)
-4. [Learning Resources](#resources)
-5. [Building Portfolio](#portfolio)
-6. [Freelancing Guide](#freelancing)
-7. [Practice Projects](#projects)
-8. [Quick Reference Cheat Sheet](#cheat-sheet)
+1. [Design Fundamentals](#Fundamentals)
+2. [Essential Software](#Software)
+3. [Design Fields & Specializations](#Fields)
+4. [Learning Resources](#Resources)
+5. [Building Portfolio](#Portfolio-Building)
+6. [Freelancing Guide](#Freelancing-Guide)
+7. [Practice Projects](#Project-Building)
+8. [Quick Reference Cheat Sheet](#CheatSheets)
 
 ---
 
