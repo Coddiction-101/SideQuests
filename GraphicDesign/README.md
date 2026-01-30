@@ -4,9 +4,9 @@
 ---
 
 ## 📋 Table of Contents
-1. [Design Fundamentals](#Fundamentals.md)
-2. [Essential Software](#Software.md)
-3. [Design Fields & Specializations](#Fields.md)
+1. [Design Fundamentals](#Fundamentals)
+2. [Essential Software](#Software)
+3. [Design Fields & Specializations](#Fields)
 4. [Learning Resources](#Resources)
 5. [Building Portfolio](#Portfolio-Building)
 6. [Freelancing Guide](#Freelancing-Guide)
