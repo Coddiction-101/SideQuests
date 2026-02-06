@@ -5,7 +5,7 @@ Photography isn’t the only way to capture the world, but it certainly is one o
 
 ## Introduction to Photography: The Universal Language
 
-?What you need to know about photography. Why you need to know it.
+> What you need to know about photography. Why you need to know it.
 
 
 Writing an introduction to photography is like writing an introduction to words. Photography is complex, full of variety, and capable of limitless storytelling and emotion.
@@ -17,3 +17,5 @@ What Is Photography?
 Photography is the art of capturing light with a camera, usually via a digital sensor or film, to create an image. With the right camera equipment, you can even photograph wavelengths of light invisible to the human eye, including UV, infrared, and radio waves.
 
 The first permanent photograph was captured in 1826 (some sources say 1827) by Joseph Nicéphore Niépce in France. It shows the roof of a building lit by the sun. You can see it reproduced below:
+
+## A Short History of Photography and the People Who Made It Succeed
