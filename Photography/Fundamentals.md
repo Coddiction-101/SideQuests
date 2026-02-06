@@ -19,3 +19,9 @@ Photography is the art of capturing light with a camera, usually via a digital s
 The first permanent photograph was captured in 1826 (some sources say 1827) by Joseph Nicéphore Niépce in France. It shows the roof of a building lit by the sun. You can see it reproduced below:
 
 ## A Short History of Photography and the People Who Made It Succeed
+Photography is everywhere today, and it can be hard to remember that it wasn’t always that way. Color photography only started to become popular and accessible with the release of Eastman Kodak’s “Kodachrome” film in the 1930s. Before that, almost all photos were monochromatic – although a handful of photographers, toeing the line between chemists and alchemists, had been using specialized techniques to capture color images for decades before. (You’ll find some fascinating galleries of photos from the 1800s or early 1900s captured in full color, worth exploring if you have not seen them already.)
+
+These scientist-magicians, the first color photographers, are hardly alone in pushing the boundaries of one of the world’s newest art forms. The history of photography has always been a history of people – artists and inventors who steered the field into the modern era.
+
+Below, I’ve compiled a brief introduction to some of photography’s most important names. Their discoveries, creations, ideas, and photographs shape our own pictures to this day, subtly or not. Although this is just a brief bird’s-eye view, these are all people you should know before you step into the technical side of photography:
+
