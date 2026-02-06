@@ -25,3 +25,8 @@ These scientist-magicians, the first color photographers, are hardly alone in pu
 
 Below, I’ve compiled a brief introduction to some of photography’s most important names. Their discoveries, creations, ideas, and photographs shape our own pictures to this day, subtly or not. Although this is just a brief bird’s-eye view, these are all people you should know before you step into the technical side of photography:
 
+## 1. Joseph Nicéphore Niépce 
+- Invention: The first permanent photograph (“View from the Window at Le Gras,” shown earlier)
+- Where: France, 1826
+- Impact: Cameras had already existed for centuries before this, but they had one major flaw: You couldn’t record a photo with them! They simply projected light onto a flat surface – one which artists used to create realistic paintings, but not strictly photographs. Niépce solved this problem by coating a pewter plate with, essentially, asphalt, which grew harder when exposed to light. By washing the plate with lavender oil, he was able to fix the hardened substance permanently to the plate.
+- Quote: “The discovery I have made, and which I call Heliography, consists in reproducing spontaneously, by the action of light, with gradations of tints from black to white, the images received in the camera obscura.”
