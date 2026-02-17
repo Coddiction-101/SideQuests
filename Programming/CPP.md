@@ -296,7 +296,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 
 ## 🔗 Related Repos
 - [cpp-projects](https://github.com/Coddiction-101/cpp_projects) — Built projects
-- [cpp-project-ideas](https://github.com/Coddiction-101/cpp-project-ideas) — Project ideas bank
+- [cpp-project-ideas](https://github.com/Coddiction-101/cpp_projects/tree/main/cpp-project-ideas) — Project ideas bank
 - [DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP) — Daily DSA practice
 
 ---
