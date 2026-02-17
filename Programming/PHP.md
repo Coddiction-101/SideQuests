@@ -280,7 +280,7 @@ Step 5   Review & document what you learned  (10 min)
 
 ## 🔗 Related Repos
 - [php-fullstack](https://github.com/Coddiction-101/php-fullstack) — Projects, security & tips hub
-- [php-projects](https://github.com/Coddiction-101/php-projects) — Built PHP projects
+- [php-projects](https://github.com/Coddiction-101/php-fullstack/tree/main/Projects) — Built PHP projects
 
 ---
 
