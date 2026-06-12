@@ -51,7 +51,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 - [x] `cout`, `cin`, `endl`
 - [x] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
 - [x] Variables, constants (`const`, `#define`)
-- [ ] Operators: arithmetic, relational, logical, assignment
+- [x] Operators: arithmetic, relational, logical, assignment
 - [ ] Type casting: `int(x)`, `static_cast<int>(x)`
 - [ ] Comments: `//` and `/* */`
 
