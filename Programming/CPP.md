@@ -52,8 +52,8 @@ Online IDE  https://onlinegdb.com (for quick practice)
 - [x] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
 - [x] Variables, constants (`const`, `#define`)
 - [x] Operators: arithmetic, relational, logical, assignment
-- [ ] Type casting: `int(x)`, `static_cast<int>(x)`
-- [ ] Comments: `//` and `/* */`
+- [x] Type casting: `int(x)`, `static_cast<int>(x)`
+- [x] Comments: `//` and `/* */`
 
 ### Block 2: Control Flow
 - [ ] `if`, `else if`, `else`
