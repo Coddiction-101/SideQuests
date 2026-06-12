@@ -50,7 +50,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 - [x] Program structure (`#include`, `main()`, `return 0`)
 - [x] `cout`, `cin`, `endl`
 - [x] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
-- [ ] Variables, constants (`const`, `#define`)
+- [x] Variables, constants (`const`, `#define`)
 - [ ] Operators: arithmetic, relational, logical, assignment
 - [ ] Type casting: `int(x)`, `static_cast<int>(x)`
 - [ ] Comments: `//` and `/* */`
