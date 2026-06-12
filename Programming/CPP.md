@@ -48,7 +48,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 
 ### Block 1: Basics & I/O
 - [x] Program structure (`#include`, `main()`, `return 0`)
-- [ ] `cout`, `cin`, `endl`
+- [x] `cout`, `cin`, `endl`
 - [ ] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
 - [ ] Variables, constants (`const`, `#define`)
 - [ ] Operators: arithmetic, relational, logical, assignment
