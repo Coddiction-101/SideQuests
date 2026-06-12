@@ -1,304 +1,257 @@
-# ⚙️ C++ Learning Roadmap
+# C++ Conditional Statements Practice Checklist
 
-A complete, structured roadmap to learn C++ from scratch — focused on DSA, real-world projects, and building independently. Concept-first, project-driven, no fluff.
+This file is our step-by-step practice map for learning conditional statements in C++.
 
----
-
-## 🎯 Goal
-Master C++ well enough to:
-- Solve DSA problems confidently
-- Build real-world console applications independently
-- Understand memory, pointers, and OOP deeply
-- Be interview and competitive programming ready
+Goal: har problem se ek useful real-world decision banana, so `if`, `else if`, `else`, logical operators, nested conditions, ternary, and `switch-case` naturally strong ho jaye.
 
 ---
 
-## ⚡ Setup
-```
-Compiler    g++ (MinGW on Windows / g++ on Linux/Mac)
-Editor      VS Code + C/C++ Extension
-Standard    C++17
-Version     g++ -std=c++17 file.cpp -o output
-Online IDE  https://onlinegdb.com (for quick practice)
-```
+## How We Will Use This
+
+- [ ] Ek time pe sirf one problem solve karenge
+- [ ] Pehle logic samjhenge in Hinglish
+- [ ] Then code line by line likhenge
+- [ ] Test cases run karenge
+- [ ] Bugs fix karenge
+- [ ] Jab concept clear ho jaye, checkbox tick karenge
 
 ---
 
-## ❌ What to Skip (Don't Waste Time)
+## Level 1: Basic If / Else
 
-| Topic | Reason |
-|---|---|
-| Turbo C++ / Old compilers | Outdated, irrelevant |
-| `printf` / `scanf` | Use `cout` / `cin` |
-| C-style strings (`char[]`, `strcpy`) | Use `string` class |
-| `goto` statements | Bad practice |
-| `NULL` pointer | Use `nullptr` |
-| `register` keyword | Compiler ignores it |
-| Complex multiple inheritance | Overused, avoid |
-| `union` types | Rarely used |
-| Graphics.h | Outdated graphics library |
-| Bitwise ops (early) | Learn only when needed for CP |
-| Templates (early) | Learn after solid OOP foundation |
-| Multithreading (early) | Advanced, learn after DSA |
+Focus: simple true/false decisions.
 
----
+- [ ] Age voting checker
+- [x] Age voting checker (Done)
+  - Concept: `if`, `else`
+  - Logic: age `>= 18` means eligible, otherwise not eligible
 
-## 📅 Phase 1 — Foundations
-> **Goal:** Write clean C++ programs with full control flow and functions
+- [x] Positive / negative / zero checker (Done)
+  - Concept: `if`, `else if`, `else`
+  - Logic: number positive hai, negative hai, ya zero hai
 
-### Block 1: Basics & I/O
-- [x] Program structure (`#include`, `main()`, `return 0`)
-- [x] `cout`, `cin`, `endl`
-- [x] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
-- [x] Variables, constants (`const`, `#define`)
-- [x] Operators: arithmetic, relational, logical, assignment
-- [x] Type casting: `int(x)`, `static_cast<int>(x)`
-- [x] Comments: `//` and `/* */`
-
-### Block 2: Control Flow
-- [ ] `if`, `else if`, `else`
-- [ ] Ternary operator: `condition ? a : b`
-- [ ] `switch-case`
-- [ ] Comparison & logical operators
-- [ ] Nested conditions
-
-### Block 3: Loops
-- [ ] `for` loop
-- [ ] `while` loop
-- [ ] `do-while` loop
-- [ ] `break` and `continue`
-- [ ] Nested loops
-- [ ] Loop patterns (pyramid, diamond, number patterns)
-
-### Block 4: Functions
-- [ ] Function declaration & definition
-- [ ] Parameters & return types
-- [ ] Pass by value vs pass by reference (`&`)
-- [ ] Function overloading
-- [ ] Default parameters
-- [ ] `void` functions
-- [ ] Recursion basics (factorial, fibonacci)
-
-### Block 5: Arrays & Strings
-- [ ] 1D arrays: declaration, traversal, operations
-- [ ] 2D arrays: matrix operations
-- [ ] `string` class: `.length()`, `.substr()`, `.find()`, `+=`
-- [ ] String traversal and manipulation
-- [ ] Array sorting (bubble, selection, insertion)
-
-**✅ Phase 1 Project:** Personal Bio Card Generator
+- [x] Even / odd checker (Done)
+  - Concept: modulo `%`
+  - Logic: number `% 2 == 0` means even
 
 ---
 
-## 📅 Phase 2 — Intermediate Concepts
-> **Goal:** Understand memory, OOP, and the STL
+## Level 2: Else-If Ladder
 
-### Block 6: Pointers & References
-- [ ] What are pointers (`*`, `&`)
-- [ ] Pointer arithmetic
-- [ ] Pointers with arrays
-- [ ] References vs pointers
-- [ ] `nullptr` (not `NULL`)
-- [ ] Dynamic memory: `new` and `delete`
-- [ ] Memory leaks and prevention
+Focus: multiple ranges and ordered checking.
 
-### Block 7: OOP — Basics
-- [ ] `struct` for grouping data
-- [ ] `class`: `public`, `private`, `protected`
-- [ ] Constructors & destructors
-- [ ] Member functions
-- [ ] `this` pointer
-- [ ] Getters & setters (encapsulation)
-- [ ] Object arrays
+- [x] Marks grading system (Done)
+  - Concept: range checking, `else if`
+  - Logic:
+    - `90-100`: Excellent
+    - `75-89`: Good
+    - `50-74`: Average
+    - `0-49`: Fail
+    - otherwise: Invalid marks
 
-### Block 8: OOP — Advanced
-- [ ] Inheritance: `public`, `protected`, `private`
-- [ ] Method overriding
-- [ ] Virtual functions & polymorphism
-- [ ] Abstract classes & pure virtual functions
-- [ ] Constructor chaining (`parent::`)
-- [ ] Copy constructor
+- [x] Smart age category checker (Done)
+  - Concept: ordered conditions
+  - Logic:
+    - child
+    - teenager
+    - adult
+    - senior citizen
 
-### Block 9: STL — The Game Changer
-- [ ] `vector<T>`: push_back, pop_back, size, access
-- [ ] `pair<T1,T2>` and `tuple`
-- [ ] `map<K,V>` and `unordered_map<K,V>`
-- [ ] `set` and `unordered_set`
-- [ ] `stack<T>` and `queue<T>`
-- [ ] `deque` and `priority_queue`
-- [ ] Iterators: `.begin()`, `.end()`
-- [ ] Algorithms: `sort()`, `find()`, `reverse()`, `min()`, `max()`
-- [ ] `auto` keyword
-- [ ] Range-based for: `for(auto x : vec)`
-
-**✅ Phase 2 Projects:**
-- Task Manager & Scheduler ✅
-- Banking System - ATM Simulator ✅
+- [ ] Temperature mood checker
+  - Concept: range-based decisions
+  - Logic: cold, pleasant, hot, extreme heat
 
 ---
 
-## 📅 Phase 3 — DSA Fundamentals
-> **Goal:** Solve problems with the right data structure and algorithm
+## Level 3: Logical Operators
 
-### Block 10: Complexity Analysis
-- [ ] Big O notation: O(1), O(n), O(log n), O(n²)
-- [ ] Analyzing loops and nested loops
-- [ ] Best, average, worst case
-- [ ] Space complexity basics
-- [ ] Why complexity matters
+Focus: combine multiple conditions using `&&`, `||`, and `!`.
 
-### Block 11: Searching & Sorting
-- [ ] Linear search
-- [ ] Binary search (on sorted arrays)
-- [ ] Bubble sort
-- [ ] Selection sort
-- [ ] Insertion sort
-- [ ] Merge sort (divide & conquer)
-- [ ] Quick sort
-- [ ] STL `sort()` with comparators
-- [ ] When to use which algorithm
+- [ ] Login validator
+  - Concept: `&&`
+  - Logic: username and password dono correct hone chahiye
 
-### Block 12: Recursion & Backtracking
-- [ ] Recursion fundamentals
-- [ ] Base case & recursive case
-- [ ] Call stack visualization
-- [ ] Recursion vs iteration
-- [ ] Classic problems: factorial, fibonacci, power
-- [ ] Tower of Hanoi
-- [ ] Backtracking pattern
-- [ ] Subsets & permutations
+- [ ] Discount calculator
+  - Concept: `&&`, `else if`
+  - Logic:
+    - high amount + member = best discount
+    - high amount + non-member = smaller discount
+    - low amount + member = small discount
 
-### Block 13: Linked Lists
-- [ ] Node structure
-- [ ] Singly linked list: insert, delete, traverse, search
-- [ ] Doubly linked list
-- [ ] Circular linked list
-- [ ] Reverse a linked list
-- [ ] Detect cycle (Floyd's algorithm)
-- [ ] Merge two sorted lists
-
-### Block 14: Stacks & Queues
-- [ ] Stack: LIFO, push, pop, top, isEmpty
-- [ ] Queue: FIFO, enqueue, dequeue, front
-- [ ] Implement using arrays & linked lists
-- [ ] Applications: balanced parentheses, undo/redo
-- [ ] Monotonic stack
-- [ ] Deque (double-ended queue)
-- [ ] Priority queue (min/max heap)
-
-### Block 15: Trees
-- [ ] Binary tree structure & terminology
-- [ ] Tree traversals: inorder, preorder, postorder, level-order
-- [ ] BST: insert, search, delete
-- [ ] Height & depth of tree
-- [ ] AVL tree (balanced BST concept)
-- [ ] Min-heap & max-heap
-- [ ] Heap sort
-
-### Block 16: Graphs
-- [ ] Graph representation: adjacency list, adjacency matrix
-- [ ] BFS (Breadth-First Search)
-- [ ] DFS (Depth-First Search)
-- [ ] Cycle detection
-- [ ] Topological sort
-- [ ] Shortest path: Dijkstra's algorithm
-- [ ] MST: Kruskal's & Prim's (basics)
-
-**✅ Phase 3 Projects:**
-- File Organizer 🔨
-- Sorting Visualizer (text-based)
-- Maze Generator & Solver
+- [ ] Scholarship eligibility checker
+  - Concept: multiple condition validation
+  - Logic: marks, income, and attendance ke basis pe eligibility
 
 ---
 
-## 📅 Phase 4 — Advanced Concepts
-> **Goal:** Solve hard problems and build advanced projects
+## Level 4: Nested Conditions
 
-### Block 17: Dynamic Programming
-- [ ] Memoization (top-down)
-- [ ] Tabulation (bottom-up)
-- [ ] Classic problems: fibonacci, knapsack, coin change
-- [ ] Longest Common Subsequence (LCS)
-- [ ] Longest Increasing Subsequence (LIS)
-- [ ] DP on grids
-- [ ] When to recognize a DP problem
+Focus: ek decision ke andar doosra decision.
 
-### Block 18: File Handling
-- [ ] `fstream`, `ifstream`, `ofstream`
-- [ ] Read & write text files
-- [ ] Binary file mode
-- [ ] Custom delimiters for parsing
-- [ ] Error handling with files
+- [ ] ATM withdrawal system
+  - Concept: nested `if`
+  - Logic:
+    - PIN wrong: deny
+    - amount invalid: deny
+    - amount greater than balance: insufficient balance
+    - otherwise: withdrawal successful
 
-### Block 19: Exception Handling
-- [ ] `try`, `catch`, `throw`
-- [ ] Standard exceptions
-- [ ] Custom exception classes
-- [ ] RAII principle
-- [ ] Exception safety
+- [ ] Movie ticket pricing
+  - Concept: nested condition + calculation
+  - Logic:
+    - child discount
+    - senior discount
+    - weekend extra charge
 
-### Block 20: Modern C++ (C++11/17)
-- [ ] Smart pointers: `unique_ptr`, `shared_ptr`
-- [ ] Lambda functions: `[](int x){ return x*2; }`
-- [ ] `auto` and type inference
-- [ ] Range-based for loops
-- [ ] Structured bindings
-- [ ] `<filesystem>` library (C++17)
-- [ ] `<chrono>` for timing
-- [ ] `<random>` for random numbers
-- [ ] Initializer lists
-- [ ] Move semantics (basics)
-
-**✅ Phase 4 Projects:**
-- Password Manager
-- Expression Calculator
-- Resource Monitor
+- [ ] Weather outfit suggestion
+  - Concept: nested condition
+  - Logic:
+    - cold + raining: jacket and umbrella
+    - hot + no rain: light clothes
+    - rainy: umbrella
 
 ---
 
-## 📅 Phase 5 — Mega Projects
-> **Goal:** Build complete, impressive, portfolio-worthy applications
+## Level 5: Ternary Operator
 
-- [ ] Terminal Text Editor
-- [ ] Port Scanner & Network Utility
-- [ ] Console Snake Game
-- [ ] Chess Engine
-- [ ] Zombie Survival Simulator
+Focus: short one-line decisions.
 
----
+- [ ] Bigger number finder
+  - Concept: `condition ? trueValue : falseValue`
+  - Logic: two numbers me bigger print karna
 
-## 📊 Overall Progress
+- [ ] Pass / fail quick result
+  - Concept: ternary
+  - Logic: marks `>= 50` means pass, otherwise fail
 
-| Phase | Topic | Status |
-|---|---|---|
-| 1 | Basics & I/O | ✅ Done |
-| 1 | Control Flow | ✅ Done |
-| 1 | Loops | ✅ Done |
-| 1 | Functions | ✅ Done |
-| 1 | Arrays & Strings | ✅ Done |
-| 2 | Pointers & References | 🔨 In Progress |
-| 2 | OOP Basics | 🔨 In Progress |
-| 2 | OOP Advanced | 📋 Planned |
-| 2 | STL | 📋 Planned |
-| 3 | Complexity Analysis | 📋 Planned |
-| 3 | Searching & Sorting | 📋 Planned |
-| 3 | Recursion & Backtracking | 📋 Planned |
-| 3 | Linked Lists | 📋 Planned |
-| 3 | Stacks & Queues | 📋 Planned |
-| 3 | Trees | 📋 Planned |
-| 3 | Graphs | 📋 Planned |
-| 4 | Dynamic Programming | 📋 Planned |
-| 4 | File Handling | ✅ Done |
-| 4 | Exception Handling | 📋 Planned |
-| 4 | Modern C++ | 📋 Planned |
+- [ ] Even / odd quick check
+  - Concept: ternary + modulo
+  - Logic: one-line even/odd result
 
 ---
 
-## 🔗 Related Repos
-- [cpp-projects](https://github.com/Coddiction-101/cpp_projects) — Built projects
-- [cpp-project-ideas](https://github.com/Coddiction-101/cpp_projects/tree/main/cpp-project-ideas) — Project ideas bank
-- [DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP) — Daily DSA practice
+## Level 6: Switch Case
+
+Focus: menu-based programs.
+
+- [ ] Mini calculator
+  - Concept: `switch-case`
+  - Logic: `+`, `-`, `*`, `/`
+  - Extra: division by zero handle karna
+
+- [ ] Food ordering menu
+  - Concept: menu choice handling
+  - Logic: user number choose kare, program item and price print kare
+
+- [ ] Encryption method selector
+  - Concept: switch menu
+  - Logic:
+    - `1`: Caesar cipher
+    - `2`: XOR encryption
+    - `3`: no encryption
+    - otherwise: invalid choice
 
 ---
 
-*Updated as each block is completed. Concept first → Practice → Build.*
+## Level 7: Mixed Logic Mini Projects
+
+Focus: multiple conditional concepts together.
+
+- [ ] Smart traffic signal advisor
+  - Concept: string comparison + nested conditions
+  - Logic: red/yellow/green plus emergency vehicle handling
+
+- [ ] Student dashboard decision system
+  - Concept: grading + attendance + fee status
+  - Logic: student status summary generate karna
+
+- [ ] Password strength checker
+  - Concept: boolean variables + logical operators
+  - Logic:
+    - length enough hai ya nahi
+    - number included hai ya nahi
+    - special character included hai ya nahi
+    - final result: weak, medium, strong
+
+---
+
+# Future Capstone: Password Manager & Vault
+
+Ye hamara future project target hai. Abhi directly build nahi karenge, but conditional statements ke through iske small parts prepare karenge.
+
+## Project Idea
+
+A console-based password vault that can store, protect, search, generate, and retrieve passwords.
+
+## Future Features
+
+- [ ] Store passwords by website/app name
+- [ ] Master password protection
+- [ ] Strong password generator
+- [ ] Search password by website/app
+- [ ] Basic encryption/decryption
+- [ ] Persistent file storage
+- [ ] README documentation
+
+## Concepts Needed
+
+- [ ] Conditional statements
+- [ ] Loops
+- [ ] Functions
+- [ ] Strings
+- [ ] Arrays or vectors
+- [ ] Maps
+- [ ] File handling
+- [ ] OOP classes
+- [ ] Random number generation
+- [ ] Basic encryption
+- [ ] Basic hashing idea
+
+## Conditional Statement Prep For Password Manager
+
+- [ ] Master password login checker
+- [ ] Login attempt result checker
+- [ ] Password strength checker
+- [ ] Vault menu choice validator
+- [ ] Password generator rule validator
+- [ ] Encryption method selector
+
+## Loop Prep For Password Manager
+
+- [ ] Login with 3 attempts
+- [ ] Menu repeats until user exits
+- [ ] Generate multiple password options
+- [ ] Search until matching entry is found
+
+## Function Prep For Password Manager
+
+- [ ] `validateLogin()`
+- [ ] `checkPasswordStrength()`
+- [ ] `showVaultMenu()`
+- [ ] `generatePassword()`
+- [ ] `encryptPassword()`
+- [ ] `decryptPassword()`
+
+## OOP Prep For Password Manager
+
+- [ ] Build `PasswordEntry` class
+- [ ] Build `Vault` class
+- [ ] Add methods for add/search/delete
+- [ ] Connect file handling with class methods
+
+---
+
+## Current Focus
+
+We are currently learning:
+
+- [ ] `if`
+- [ ] `else`
+- [ ] `else if`
+- [ ] comparison operators
+- [ ] logical operators
+- [ ] nested conditions
+
+First problem to finish:
+
+- [x] Marks grading system (Done)
