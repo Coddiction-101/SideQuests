@@ -47,7 +47,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 > **Goal:** Write clean C++ programs with full control flow and functions
 
 ### Block 1: Basics & I/O
-- [ ] Program structure (`#include`, `main()`, `return 0`)
+- [x] Program structure (`#include`, `main()`, `return 0`)
 - [ ] `cout`, `cin`, `endl`
 - [ ] Data types: `int`, `float`, `double`, `char`, `bool`, `string`
 - [ ] Variables, constants (`const`, `#define`)
