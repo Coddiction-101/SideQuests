@@ -20,7 +20,7 @@ Goal: har problem se ek useful real-world decision banana, so `if`, `else if`, `
 ## Level 1: Basic If / Else
 
 Focus: simple true/false decisions.
-
+    
 - [ ] Age voting checker
 - [x] Age voting checker (Done)
   - Concept: `if`, `else`
@@ -57,7 +57,7 @@ Focus: multiple ranges and ordered checking.
     - adult
     - senior citizen
 
-- [ ] Temperature mood checker
+- [x] Temperature mood checker (Done)
   - Concept: range-based decisions
   - Logic: cold, pleasant, hot, extreme heat
 
@@ -67,18 +67,17 @@ Focus: multiple ranges and ordered checking.
 
 Focus: combine multiple conditions using `&&`, `||`, and `!`.
 
-- [ ] Login validator
   - Concept: `&&`
   - Logic: username and password dono correct hone chahiye
 
-- [ ] Discount calculator
+- [x] Discount calculator (Done)
   - Concept: `&&`, `else if`
   - Logic:
     - high amount + member = best discount
     - high amount + non-member = smaller discount
     - low amount + member = small discount
 
-- [ ] Scholarship eligibility checker
+- [x] Scholarship eligibility checker (Done)
   - Concept: multiple condition validation
   - Logic: marks, income, and attendance ke basis pe eligibility
 
@@ -252,6 +251,6 @@ We are currently learning:
 - [ ] logical operators
 - [ ] nested conditions
 
-First problem to finish:
+Current Focus:
 
-- [x] Marks grading system (Done)
+- [ ] Login validator
