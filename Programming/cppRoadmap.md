@@ -58,7 +58,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 ### Block 2: Control Flow
 - [x] `if`, `else if`, `else`
 - [x] Ternary operator: `condition ? a : b`
-- [ ] `switch-case`
+- [x] `switch-case`
 - [ ] Comparison & logical operators
 - [ ] Nested conditions
 
