@@ -60,7 +60,7 @@ Online IDE  https://onlinegdb.com (for quick practice)
 - [x] Ternary operator: `condition ? a : b`
 - [x] `switch-case`
 - [x] Comparison & logical operators
-- [ ] Nested conditions
+- [x] Nested conditions
 
 ### Block 3: Loops
 - [ ] `for` loop
