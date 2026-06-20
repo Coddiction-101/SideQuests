@@ -63,11 +63,11 @@ Online IDE  https://onlinegdb.com (for quick practice)
 - [x] Nested conditions
 
 ### Block 3: Loops
-- [ ] `for` loop
-- [ ] `while` loop
-- [ ] `do-while` loop
-- [ ] `break` and `continue`
-- [ ] Nested loops
+- [x] `for` loop
+- [x] `while` loop
+- [x] `do-while` loop
+- [x] `break` and `continue`
+- [x] Nested loops
 - [ ] Loop patterns (pyramid, diamond, number patterns)
 
 ### Block 4: Functions
