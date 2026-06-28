@@ -64,9 +64,9 @@ Master Java well enough to:
 
 ## Block 2: Input & Output
 
-* [ ] `System.out.print()`
-* [ ] `System.out.println()`
-* [ ] `System.out.printf()`
+* [x] `System.out.print()`
+* [x] `System.out.println()`
+* [x] `System.out.printf()`
 * [ ] Scanner Class
 * [ ] Reading Strings
 * [ ] Reading Numbers
