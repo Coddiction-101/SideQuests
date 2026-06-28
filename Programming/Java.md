@@ -16,25 +16,6 @@ Master Java well enough to:
 
 ---
 
-# ⚡ Setup
-
-```text
-JDK         Java 21 (LTS Recommended)
-IDE         IntelliJ IDEA Community Edition
-Compiler    javac
-Runtime     java
-
-Check Version:
-java --version
-javac --version
-
-Online IDE:
-https://www.jdoodle.com
-https://www.onlinegdb.com
-```
-
----
-
 # ❌ What to Skip (Don't Waste Time)
 
 | Topic                   | Reason                   |
