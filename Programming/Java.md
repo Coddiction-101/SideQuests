@@ -67,10 +67,10 @@ Master Java well enough to:
 * [x] `System.out.print()`
 * [x] `System.out.println()`
 * [x] `System.out.printf()`
-* [ ] Scanner Class
-* [ ] Reading Strings
-* [ ] Reading Numbers
-* [ ] Formatting Output
+* [x] Scanner Class
+* [x] Reading Strings
+* [x] Reading Numbers
+* [x] Formatting Output
 
 ### Practice
 
