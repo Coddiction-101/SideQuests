@@ -57,8 +57,8 @@ Master Java well enough to:
 ### Practice
 
 * Age Calculator - 1
-* Temperature Converter
-* Simple Calculator
+* Temperature Converter - 1
+* Simple Calculator - 1
 
 ---
 
