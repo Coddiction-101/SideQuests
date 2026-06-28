@@ -43,7 +43,7 @@ Master Java well enough to:
 ## Block 1: Java Basics
 
 * [x] What is Java?
-* [ ] JVM, JRE, JDK
+* [x] JVM, JRE, JDK
 * [ ] Compilation Process
 * [ ] Program Structure
 * [ ] `main()` method
