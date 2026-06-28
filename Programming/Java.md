@@ -44,7 +44,7 @@ Master Java well enough to:
 
 * [x] What is Java?
 * [x] JVM, JRE, JDK
-* [ ] Compilation Process
+* [x] Compilation Process
 * [ ] Program Structure
 * [ ] `main()` method
 * [ ] Variables
