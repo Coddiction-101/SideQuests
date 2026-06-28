@@ -45,14 +45,14 @@ Master Java well enough to:
 * [x] What is Java?
 * [x] JVM, JRE, JDK
 * [x] Compilation Process
-* [ ] Program Structure
-* [ ] `main()` method
-* [ ] Variables
-* [ ] Data Types
-* [ ] Type Casting
-* [ ] Constants (`final`)
-* [ ] Operators
-* [ ] Comments
+* [x] Program Structure
+* [x] `main()` method
+* [x] Variables
+* [x] Data Types
+* [x] Type Casting
+* [x] Constants (`final`)
+* [x] Operators
+* [x] Comments
 
 ### Practice
 
