@@ -74,9 +74,9 @@ Master Java well enough to:
 
 ### Practice
 
-* Student Information Program
-* Bill Generator
-* Currency Converter
+* Student Information Program - 1
+* Bill Generator - 1
+* Currency Converter - 1
 
 ---
 
