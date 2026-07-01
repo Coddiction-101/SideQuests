@@ -82,9 +82,9 @@ Master Java well enough to:
 
 ## Block 3: Conditional Statements
 
-* [ ] `if`
-* [ ] `if-else`
-* [ ] `else-if`
+* [x] `if`
+* [x] `if-else`
+* [x] `else-if`
 * [ ] Nested Conditions
 * [ ] Logical Operators
 * [ ] Relational Operators
