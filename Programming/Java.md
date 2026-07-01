@@ -88,8 +88,8 @@ Master Java well enough to:
 * [x] Nested Conditions
 * [x] Logical Operators
 * [x] Relational Operators
-* [ ] Ternary Operator
-* [ ] `switch`
+* [x] Ternary Operator
+* [x] `switch`
 
 ### Practice
 
