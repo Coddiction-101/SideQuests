@@ -85,9 +85,9 @@ Master Java well enough to:
 * [x] `if`
 * [x] `if-else`
 * [x] `else-if`
-* [ ] Nested Conditions
-* [ ] Logical Operators
-* [ ] Relational Operators
+* [x] Nested Conditions
+* [x] Logical Operators
+* [x] Relational Operators
 * [ ] Ternary Operator
 * [ ] `switch`
 
