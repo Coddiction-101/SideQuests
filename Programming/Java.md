@@ -101,13 +101,13 @@ Master Java well enough to:
 
 ## Block 4: Loops
 
-* [ ] `for`
-* [ ] `while`
-* [ ] `do-while`
-* [ ] Nested Loops
-* [ ] `break`
-* [ ] `continue`
-* [ ] Pattern Printing
+* [x] `for`
+* [x] `while`
+* [x] `do-while`
+* [x] Nested Loops
+* [x] `break`
+* [x] `continue`
+* [x] Pattern Printing
 
 ### Practice
 
