@@ -120,7 +120,7 @@ Master Java well enough to:
 
 ## Block 5: Methods
 
-* [ ] Creating Methods
+* [X] Creating Methods
 * [ ] Parameters
 * [ ] Return Types
 * [ ] Method Overloading
