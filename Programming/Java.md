@@ -121,7 +121,7 @@ Master Java well enough to:
 ## Block 5: Methods
 
 * [X] Creating Methods
-* [ ] Parameters
+* [x] Parameters
 * [ ] Return Types
 * [ ] Method Overloading
 * [ ] Variable Scope
