@@ -122,7 +122,7 @@ Master Java well enough to:
 
 * [X] Creating Methods
 * [x] Parameters
-* [ ] Return Types
+* [x] Return Types
 * [ ] Method Overloading
 * [ ] Variable Scope
 * [ ] Recursion Basics
